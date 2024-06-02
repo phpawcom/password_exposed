@@ -56,7 +56,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/developeraamirkhan/DO-File-Cache-PSR-6"
+            "url": "https://github.com/phpawcom/DO-File-Cache-PSR-6"
         }
     ]
 }
